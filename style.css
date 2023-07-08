@@ -22,6 +22,8 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
+
 }
 .mouri{
     color: #181818;
@@ -41,4 +43,11 @@ nav li {
 nav a{
     text-decoration: none;
     color:  #474747 ;
+}
+/* header related styles */
+.header{
+    background-color: rgb(235, 199, 199);
+}
+.banner{
+    padding: 30px 30px 30px 150px;
 }
